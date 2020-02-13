@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"fmt"
-	"github.com/banch0/managers-cli/cmd/internal/dbinit"
+	"github.com/banch0/manager-cli/cmd/internal/dbinit"
 	"github.com/banch0/managers-core/pkg/core"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
